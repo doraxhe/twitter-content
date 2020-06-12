@@ -1,0 +1,30 @@
+.tweet {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    width: 700px;
+    height: auto;
+    border: 5px solid blue;
+    margin: 20px auto;
+    padding: 20px, 20px, 20px, 20px;    
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.username {
+    margin-left: 120px;
+}
+
+.userHandle {
+    margin-left: 120px;
+}
+
+.message {
+    margin-left: 120px;
+}
